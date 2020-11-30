@@ -5,14 +5,14 @@
 
 - 📫 How to reach me **battnik90@gmail.com**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razormeister&show_icons=true&locale=en&layout=compact" alt="razormeister" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=razormeister&show_icons=true&locale=en" alt="razormeister" />
-</p>
+<a href="https://github.com/RazorMeister">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razormeister&show_icons=true&locale=en" alt="razormeister" />
+</a>
+<a href="https://github.com/RazorMeister">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razormeister&show_icons=true&locale=en&layout=compact" alt="razormeister" />
+</a>
 &nbsp;
 <p align="right">
-  <a href="https://fb.com/razorekmeister"><img width="25px" src="http://static.ro-bot.net/social_media/facebook.png" alt="facebook"></a>
-  <a href="https://linkedin.com/in/tymoteusz-bartnik"><img width="25px" src="http://static.ro-bot.net/social_media/linkedin.png" alt="linkedin"></a>
+  <a href="https://fb.com/razorekmeister"><img src="https://i.postimg.cc/SNprPdfR/facebook-Small-30.png" alt="facebook"></a>
+  <a href="https://linkedin.com/in/tymoteusz-bartnik"><img src="https://i.postimg.cc/7YMVrzKV/linkedin-Small-30.png" alt="linkedin"></a>
 </p>
