@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm RazorMeister</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RazorMeister</h1>
 <h3 align="center">A student at Warsaw University of Technology</h3>
 
 - 🌱 I’m currently learning **ASP.NET and React**
 
 - 📫 How to reach me **battnik90@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tymoteusz-bartnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tymoteusz-bartnik" height="30" width="40" /></a>
-<a href="https://fb.com/razorekmeister" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="razorekmeister" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razormeister&show_icons=true&locale=en&layout=compact" alt="razormeister" />
 </p>
-<p style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razormeister&show_icons=true&locale=en&layout=compact" alt="razormeister" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=razormeister&show_icons=true&locale=en" alt="razormeister" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=razormeister&show_icons=true&locale=en" alt="razormeister" />
+</p>
+&nbsp;
+<p align="right">
+  <a href="https://fb.com/razorekmeister"><img width="25px" src="http://static.ro-bot.net/social_media/facebook.png" alt="facebook"></a>
+  <a href="https://linkedin.com/in/tymoteusz-bartnik"><img width="25px" src="http://static.ro-bot.net/social_media/linkedin.png" alt="linkedin"></a>
+</p>
